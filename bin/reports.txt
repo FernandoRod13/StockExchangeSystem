@@ -1,0 +1,16 @@
+HP inc.|HPQ|9500|12.07
+Apple|AAPL|9995|105.67
+Facebook|FB|20000|56.525
+Tesla|TSLA|8500|227.75
+Berkshire Hathaway Inc.|BRK-A|9990|211965.0
+Google|GOOG|4980|741.27
+<<>>
+Fernando Rodriguez|804436|true
+Luis Rodriguez|516415|true
+Diego Ayarde|684844|true
+Jose Mendez|136663|true
+----
+AAPL|105.67|5|804436
+HPQ|12.07|150|516415
+GOOG|741.27|20|516415
+BRK-A|211965.0|10|136663
